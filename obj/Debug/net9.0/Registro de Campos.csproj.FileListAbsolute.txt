@@ -1,0 +1,14 @@
+C:\Users\Nathan\Desktop\Registro de Campos\bin\Debug\net9.0\Registro de Campos.exe
+C:\Users\Nathan\Desktop\Registro de Campos\bin\Debug\net9.0\Registro de Campos.deps.json
+C:\Users\Nathan\Desktop\Registro de Campos\bin\Debug\net9.0\Registro de Campos.runtimeconfig.json
+C:\Users\Nathan\Desktop\Registro de Campos\bin\Debug\net9.0\Registro de Campos.dll
+C:\Users\Nathan\Desktop\Registro de Campos\bin\Debug\net9.0\Registro de Campos.pdb
+C:\Users\Nathan\Desktop\Registro de Campos\obj\Debug\net9.0\Registro de Campos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\Desktop\Registro de Campos\obj\Debug\net9.0\Registro de Campos.AssemblyInfoInputs.cache
+C:\Users\Nathan\Desktop\Registro de Campos\obj\Debug\net9.0\Registro de Campos.AssemblyInfo.cs
+C:\Users\Nathan\Desktop\Registro de Campos\obj\Debug\net9.0\Registro de Campos.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Desktop\Registro de Campos\obj\Debug\net9.0\Registro de Campos.dll
+C:\Users\Nathan\Desktop\Registro de Campos\obj\Debug\net9.0\refint\Registro de Campos.dll
+C:\Users\Nathan\Desktop\Registro de Campos\obj\Debug\net9.0\Registro de Campos.pdb
+C:\Users\Nathan\Desktop\Registro de Campos\obj\Debug\net9.0\Registro de Campos.genruntimeconfig.cache
+C:\Users\Nathan\Desktop\Registro de Campos\obj\Debug\net9.0\ref\Registro de Campos.dll
