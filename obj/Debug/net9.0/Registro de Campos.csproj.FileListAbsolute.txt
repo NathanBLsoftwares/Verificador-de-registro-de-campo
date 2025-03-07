@@ -12,3 +12,4 @@ C:\Users\Nathan\Desktop\Registro de Campos\obj\Debug\net9.0\refint\Registro de C
 C:\Users\Nathan\Desktop\Registro de Campos\obj\Debug\net9.0\Registro de Campos.pdb
 C:\Users\Nathan\Desktop\Registro de Campos\obj\Debug\net9.0\Registro de Campos.genruntimeconfig.cache
 C:\Users\Nathan\Desktop\Registro de Campos\obj\Debug\net9.0\ref\Registro de Campos.dll
+C:\Users\Nathan\Desktop\Registro de Campos\obj\Debug\net9.0\Registro de Campos.sourcelink.json
